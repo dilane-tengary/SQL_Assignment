@@ -18,3 +18,8 @@ Tools used for this assignment:
 - NOTEPAD++
 - Stackoverflow
 - Oracle SQL Developer 1Z0-O71 Notes
+
+IMPROVEMENTS:
+- Error logging in a dedicated log file
+- SELECT DISTINCTS have been used multiple places, in large datasets it may cause performance issues
+- Remove commit and rollback from procedures and allow user/script to commit or rollback based on their scenario.(The procedures are too restrictive in a way)
