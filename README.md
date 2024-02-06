@@ -1,5 +1,7 @@
 # SQL_Assignment
-MCB SQL Assignment
+Software Engineer
+SQL Test Paper
+
 
 FOLDERS:
 - /ddl contains answer to question 2
